@@ -14,4 +14,4 @@ This project is a basic static web page developed using HTML. It demonstrates fu
 https://codeprojects.org/projects/weblab/Au3ttj4bv3bhCc0IbmCQD3tYYi9dMnugRrjXKwfLFQE/
 
 ## Author
-Jeevitha V.
+Jeevitha V
